@@ -13,3 +13,7 @@
 .transparency {
   background-color: rgba(134, 222, 250, 0.2);
 }
+
+.values {
+  list-style-type: none;
+}
